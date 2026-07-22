@@ -195,8 +195,8 @@ export default function HeroSection() {
             {/* Buttons */}
             <div ref={btnsRef} className="flex flex-wrap gap-4 pt-2">
               <a
-                href="/resume.pdf"
-                download
+                href="assets/files/resume.pdf"
+                download="resume.pdf"
                 className="magnetic-btn glow-primary inline-flex items-center gap-2.5 px-7 py-3.5 rounded-full gradient-bg text-white font-semibold text-sm relative overflow-hidden">
                 
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

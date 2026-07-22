@@ -6,7 +6,7 @@ const socials = [
   {
     name: 'GitHub',
     handle: '@arshil',
-    href: 'https://github.com/arshil',
+    href: 'https://github.com/iarsh-gour18',
     icon: 'CodeBracketIcon',
     color: '#333333',
     bg: 'rgba(51,51,51,0.08)',
@@ -14,15 +14,15 @@ const socials = [
   {
     name: 'LinkedIn',
     handle: 'Arshil',
-    href: 'https://linkedin.com/in/arshil',
+    href: 'https://www.linkedin.com/in/arshil-gour-315564327/',
     icon: 'BriefcaseIcon',
     color: '#0A66C2',
     bg: 'rgba(10,102,194,0.08)',
   },
   {
     name: 'Email',
-    handle: 'arshil@email.com',
-    href: 'mailto:arshil@email.com',
+    handle: 'arshilg82@email.com',
+    href: 'mailto:arshilg82@email.com',
     icon: 'EnvelopeIcon',
     color: '#4F46E5',
     bg: 'rgba(79,70,229,0.08)',
