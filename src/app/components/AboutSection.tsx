@@ -141,7 +141,7 @@ export default function AboutSection() {
             <div className="glass-card-strong rounded-3xl p-6 flex flex-col items-center gap-5">
               <div className="relative w-36 h-36 rounded-2xl overflow-hidden">
                 <AppImage
-                  src="https://img.rocket.new/generatedImages/rocket_gen_img_1d4884314-1763296936686.png"
+                  src="/assets/images/Arshil.png"
                   alt="Arshil - Full Stack MERN Developer, professional headshot in casual attire against light background"
                   fill
                   className="object-cover"
